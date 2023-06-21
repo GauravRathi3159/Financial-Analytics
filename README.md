@@ -1,9 +1,12 @@
 # Financial-Analytics-
 Tasked with analyzing the competition for management to provide better results
 
-PROJECT-Name: Financial Analytics                                                                                         Technologies: Business Intelligence                                                                                                                               Skills: Python, Power BI tools & techniques. 
-OBJECTIVES: To provide insights on the competition and market capitalization of the top 500 companies in India through data analysis using Python, Tableau, and Power BI tools and techniques.
+PROJECT-Name: Financial Analytics                                                                                         
+Technologies: Business Intelligence                                                                                                                               Skills: Python, Power BI tools & techniques. 
+OBJECTIVES: 
+To provide insights on the competition and market capitalization of the top 500 companies in India through data analysis using Python, Tableau, and Power BI tools and techniques.
 PROJECT DESCRIPTION:
+
 	Tasked with analyzing the competition for management to provide better results.
 	Obtained a data set containing information on the market capitalization of the top 500 companies in India.
 	Analyzing the data set to extract insights and patterns in the market capitalization of the companies.
