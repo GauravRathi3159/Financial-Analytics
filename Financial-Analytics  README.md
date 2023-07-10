@@ -14,7 +14,7 @@ To provide insights on the competition and market capitalization of the top 500 
 Approach: 
 The project will be divided into the following phases:
     •   	Data collection: The first step will be to collect financial data from a variety of sources, such as company financial statements, stock market data, and 
-          economic data.
+            economic data.
    •	    Data cleaning: The next step will be to clean the data and remove any errors or inconsistencies.
    •	    Data analysis: The data will then be analyzed to identify trends and patterns.
    •	    Machine learning: Machine learning techniques will be used to build models that can predict future financial performance.
@@ -30,8 +30,8 @@ Additional Skills:
 
 Benefits:
         	Gain experience in financial data analysis and machine learning.
-     	  Develop skills in data wrangling, data cleaning, data visualization, and machine learning.
-     	  Build a portfolio of projects that can be used to demonstrate your skills to potential employers.
+     	    Develop skills in data wrangling, data cleaning, data visualization, and machine learning.
+     	    Build a portfolio of projects that can be used to demonstrate your skills to potential employers.
 
      
 PROJECT DESCRIPTION:
